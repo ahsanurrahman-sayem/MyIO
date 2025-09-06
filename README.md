@@ -1,5 +1,5 @@
 before to install this header file in your 
-sustem just run
+system just run
 
 - sudo cp myio.h /usr/include/
 or
